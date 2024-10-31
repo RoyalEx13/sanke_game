@@ -52,3 +52,23 @@ Here’s a guide for the controls in your Snake game:
     
     -   **Spacebar**: Boosts the snake's speed temporarily
     -   **R Key**: Resets the game
+
+## 🚀 Running the Server
+
+Follow these steps to get the server up and running:
+
+1. **Open your terminal.**  
+  
+2. **Navigate to the project directory:**  
+   ```bash
+   cd snake_game/web-wasm/` 
+
+3.  **Start the server with Bun:**  
+    
+    bash
+    
+    Copy code
+    
+    `bun run server.js` 
+    
+4.  **Open your web browser** and go to **`http://localhost:3000`** to view the application.
